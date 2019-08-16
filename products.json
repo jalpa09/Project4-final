@@ -1,0 +1,38 @@
+{
+  "companyName": "Crazy Deals INC.",
+  "headOffice": "Barrie, Ontario",
+  "established": 2006,
+  "active": true,
+  "topDeals": [
+    {
+      "name": "apple grocery store",
+      "price": 8.00,
+      "description": "good taste",
+      "features": [
+        "tasty bite",
+        "extra manly"
+      ],
+      "image": "apple.jpg"
+    },
+    {
+      "name": "Triple burger",
+      "price": 8.00,
+      "description": "mouth watering",
+      "features": [
+        "dill-icious",
+        "good fresh",
+      ],
+      "image": "burger.jpg"
+    },
+    {
+      "name": "Dancing with lions",
+      "price": 10.20,
+      "description": "Learn learn",
+      "features": [
+        "all amazing dance",
+        "truly nice bond",
+      ],
+      "image": "lion.jpg"
+    }
+  ]
+}
